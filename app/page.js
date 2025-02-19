@@ -2,11 +2,11 @@
 
 import { motion } from "framer-motion";
 import Image from "next/image";
-import cohortImage from "@/public/assests/illustration/family with a disabled parent-bro.svg";
-import OverwhelmedImage from "@/public/assests/illustration/Overwhelmed-bro.svg";
-import trainingImage from "@/public/assests/illustration/Teacher student-rafiki.svg";
+import cohortImage from "../public/assests/illustration/family with a disabled parent-bro.svg";
+import OverwhelmedImage from "../public/assests/illustration/Overwhelmed-bro.svg";
+import trainingImage from "../public/assests/illustration/Teacher student-rafiki.svg";
 import { GiCheckMark } from "react-icons/gi";
-import TestimonialCarousel from "@/components/TestimonialCarousel";
+import TestimonialCarousel from "../components/TestimonialCarousel";
 import { TbWorldWww } from "react-icons/tb";
 import { MdBrandingWatermark } from "react-icons/md";
 import { TbSeo } from "react-icons/tb";
